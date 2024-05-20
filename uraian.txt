@@ -1,0 +1,23 @@
+1. cara kerja servo : 
+    Servo adalah perangkat yang digunakan untuk mengontrol sudut atau posisi
+    objek dengan presisi tinggi. Servo menerima sinyal masukan lalu mencockanya
+    dengan keadaan servo sekarang lalu selanjutnya servo akan mengoreksi sesuai dengan
+
+2. Cara kerja Ultrasonic:
+    Cara Kerja Ultarsonik
+    Prinsip kerja ultrasonik adalah mengirimkan gelombang suara frekuensi 
+    tinggi dan mengukur waktu yang diperlukan untuk pantulan gelombang 
+    tersebut kembali ke sensor, yang kemudian digunakan untuk menghitung 
+    jarak objek.
+
+3. Contoh penggunaan Pemrograman Sistem Tertanam pada kehidupan sehari-hari:
+   1. Kamera: Pemrosesan gambar, fokus otomatis, dan stabilisasi gambar.
+   2. Kulkas Pintar: Memantau suhu dan kelembapan, mengatur pendinginan, dan memberikan notifikasi jika pintu terbuka terlalu lama.
+   3. Mesin Cuci Otomatis: Mengoptimalkan penggunaan air dan deterjen, memilih siklus pencucian berdasarkan jenis kain dan tingkat kotoran.
+   4. Kamera Keamanan: Memproses video secara real-time, mendeteksi gerakan, dan mengirimkan notifikasi ke pemilik rumah.
+   5. Sensor Pintu dan Jendela: Mengirimkan alarm jika ada intrusi.
+   6. Smart TV: Televisi pintar menggunakan sistem tertanam untuk memberikan fungsi streaming, mengakses internet, dan mengontrol perangkat rumah pintar lainnya.
+
+4. Jelaskan project yang akan kelompok kamu buat pada mata kuliah pemrograman sistem tertanam!
+   Project tentang pembuatan alarm jam digital dengan menggunakan alat dan bahan Arduino IDE, Arduino UNO, Modul RTC, Buzzer, Project Board, Kabel Jumper
+   
